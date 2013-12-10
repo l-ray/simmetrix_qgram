@@ -1,1 +1,1 @@
-# SmithWaterman
+# QGram
