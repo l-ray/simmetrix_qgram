@@ -3,14 +3,14 @@
     "name": "Lennart Reuther",
     "email": "lennart.reuther+xirtemmis@gmail.com"
   },
-  "name": "simmetrix_smithwaterman",
-  "description": "Smith-Waterman algorithm in javascript",
+  "name": "simmetrix_qgram",
+  "description": "QGram algorithm in javascript",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/l-ray/simmetrix_smithwaterman.git"
+    "url": "git://github.com/l-ray/simmetrix_qgram.git"
   },
-  "main": "simmetrix.smithwaterman.js",
+  "main": "simmetrix.qgram.js",
   "scripts": {
     "test": "mocha"
   },
@@ -24,7 +24,7 @@
   },
  "readmeFilename": "README.md",
  "bugs": {
-    "url": "https://github.com/l-ray/simmetrix_smithwaterman/issues"
+    "url": "https://github.com/l-ray/simmetrix_qgram/issues"
   },
-  "_id": "simmetrix_smithwaterman@0.0.1"
+  "_id": "simmetrix_qgram@0.0.1"
 }
