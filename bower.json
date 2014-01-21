@@ -1,0 +1,6 @@
+{
+  "name": "simmetrix_qgram",
+  "version": "0.0.2",
+  "main": "./lib/simmetrix.gram.js",
+  "dependencies": { }
+}
