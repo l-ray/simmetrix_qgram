@@ -3,7 +3,7 @@
     "name": "Lennart Reuther",
     "email": "lennart.reuther+xirtemmis@gmail.com"
   },
-  "name": "simmetrix_qgram",
+  "name": "simmetrix-qgram",
   "description": "QGram algorithm in javascript",
   "version": "0.0.2",
   "repository": {
